@@ -82,5 +82,23 @@ e.g.4 Unicode encode:  python encode_decode.py -f behinder_jsp.txt
 e.g.5 Base64  encode:  python encode_decode.py -s abcdef
 ```
 
+The unicode example is :
+
+![image](https://github.com/Mr-mocun/Encode_Decode_webshell/blob/master/Image/Unicode_example.jpg)
+
+
+
+The Behinder JSP example is :
+
+this key is default key (e45e329feb5d925b)
+
+![image](https://github.com/Mr-mocun/Encode_Decode_webshell/blob/master/Image/Behinder_JSP_decode_example.png)
+
+
+
+The Behinder PHP example is:
+
+![image](https://github.com/Mr-mocun/Encode_Decode_webshell/blob/master/Image/Behinder_PHP_decode_example.png)
+
 
 
